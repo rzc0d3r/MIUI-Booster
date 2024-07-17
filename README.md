@@ -16,7 +16,8 @@ MIUI-Booster - Magisk module for MIUI users, which improves various aspects of t
 * Makes infinite cloud storage in google photos
   > This probably doesn't work now...
 * Disables system boot animation
-
+* Removes the pop-up window that says there is little charge left
+* Slightly speeds up system animations
 ---
 
 ## How to customize the list of catologs to be deleted
