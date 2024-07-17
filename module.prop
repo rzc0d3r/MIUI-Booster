@@ -4,4 +4,4 @@ version=v1.2.3
 versionCode=1
 settingsVersion=1
 author=rzc0d3r
-description=Uninstall Bloatware, Unlimited Google Photo, Disabling MIUI updates, Enabling RAM manager in MiuiLauncher, Increased boot speed, System logging removed
+description=Removes a bunch of system applications, Disables MIUI system updates, Disables different types of system logging, Disables CellBroadCast service, Disables MIUI Launcher functionality limitations, Makes infinite cloud storage in google photos, Disables system boot animationd
