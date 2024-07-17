@@ -4,4 +4,4 @@ version=v1.2.3
 versionCode=1
 settingsVersion=1
 author=rzc0d3r
-description=Removes a bunch of system applications, Disables MIUI system updates, Disables different types of system logging, Disables CellBroadCast service, Disables MIUI Launcher functionality limitations, Makes infinite cloud storage in google photos, Disables system boot animationd
+description=Removes a bunch of system applications, Disables MIUI system updates, Disables different types of system logging, Disables CellBroadCast service, Disables MIUI Launcher functionality limitations, Makes infinite cloud storage in google photos, Disables system boot animation, Removes the pop-up window that says there is little charge left, Slightly speeds up system animations
