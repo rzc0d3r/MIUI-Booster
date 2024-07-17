@@ -42,4 +42,4 @@ MIUI-Booster - Magisk module for MIUI users, which improves various aspects of t
       "
       ```
 
-      > Don't forget to move the quote to a new line after adding the new **PATH**!
+      > Don't forget to move the quotation mark to a new line after adding the new **PATH**!
