@@ -37,6 +37,7 @@ MIUI-Booster - Magisk module for MIUI users, which improves various aspects of t
       ...
       /system/vendor/app/SoterService
       /system/vendor/app/SensorTestTool
+
       /system/app/TrashAppName
       "
       ```
