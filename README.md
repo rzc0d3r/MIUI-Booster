@@ -19,8 +19,7 @@ MIUI-Booster - Magisk module for MIUI users, which improves various aspects of t
 ---
 
 ## How to customize the list of catologs to be deleted
-1. Open the file [update-binary](META-INF/com/google/android file
-/update-binary) and on line 11 you will see the ```REPLACE``` variable
+1. Open the file [update-binary](META-INF/com/google/android/update-binary) and on line 11 you will see the ```REPLACE``` variable
 2. You will see a list of directories that will be cleared after the module is installed
 3. You can edit ```REPLACE``` variable:
    * For first example, I want to keep the **MIUI Weather** app, so I delete line 95 and I get:
