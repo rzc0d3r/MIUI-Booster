@@ -10,7 +10,7 @@ MIUI-Booster - Magisk module for MIUI users, which improves various aspects of t
   > Now you'll never see the message that an update is available!
 * Disables different types of system logging
 * Disables CellBroadCast service
-  > To disable this feature you need to delete the **/system/apex** folder!
+  > To disable it, you need to add paths to files located in **/system/apex** that have the **cellbroadcast** prefix to the ```REPLACE``` variable. Also do the same with **/system/app**, **/system/priv-app**
 * Disables MIUI Launcher functionality limitations
   > Features: force saving app to RAM, dual screen will be unlocked!
 * Makes infinite cloud storage in google photos
